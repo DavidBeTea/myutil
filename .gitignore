@@ -1,0 +1,9 @@
+*.idea
+*.txt
+*.xml
+word_embedding/log/*
+nmt/output/*
+*.pyc
+dist/*
+*.egg-info/*
+config
