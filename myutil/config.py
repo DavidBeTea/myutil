@@ -8,7 +8,7 @@
 """
 from configparser import ConfigParser
 
-import log
+from . import log
 from .path import get_project_path
 
 
