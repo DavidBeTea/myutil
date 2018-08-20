@@ -15,7 +15,7 @@ import pandas as pd
 from scipy.sparse import coo_matrix
 from sklearn import preprocessing
 
-import log
+from . import log
 from .config import get_config
 from .str import md5
 

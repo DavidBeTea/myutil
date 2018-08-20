@@ -2,7 +2,7 @@
 """
 DateUtil
 @date 2017/11/8
-@author: Zhao Xin
+@author: Dai Wei
 ================
 
 """

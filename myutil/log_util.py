@@ -11,8 +11,7 @@ from datetime import datetime
 from functools import wraps
 
 import yagmail
-
-import log
+from . import log
 from .config import get_config
 
 
