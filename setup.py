@@ -31,7 +31,7 @@ KEYWORDS = "python util"
 AUTHOR = "Dai Wei"
 AUTHOR_EMAIL = "629569794@qq.com"
 URL = "https://github.com/DavidBeTea/myutil"
-VERSION = "1.0.3"
+VERSION = "1.0.4"
 LICENSE = "MIT"
 setup(
     name=NAME,
