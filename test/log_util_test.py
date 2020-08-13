@@ -15,7 +15,7 @@ from myutil.log_util import run_time_email
 import myutil.log as log
 
 
-@run_time_email('629569794@qq.com')
+@run_time_email('dafdf@qq.com')
 def run_test():
     log.info('run')
     print(1/0)
